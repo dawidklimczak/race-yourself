@@ -1,0 +1,5 @@
+{
+  "name": "Race Yourself",
+  "description": "A habit-building app where you race against AI versions of yourself to achieve time-based goals. Track progress, earn medals, and unlock rewards.",
+  "requestFramePermissions": []
+}
