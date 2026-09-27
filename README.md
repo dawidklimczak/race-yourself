@@ -1,5 +1,7 @@
 # Race Yourself
 
+> **Work in progress.** This is a personal side project, not a finished or maintained product — expect rough edges and missing pieces.
+
 A goal-tracking app that reframes progress toward a deadline as a race against five AI-simulated versions of yourself — not a progress bar.
 
 ## The idea
